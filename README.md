@@ -224,7 +224,4 @@
   <a href="https://www.linkedin.com/in/jamith-sheron-0a760b20b" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Jamith%20Sheron-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://gitlab.com/jamith-sheron" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-Jamith%20Sheron-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
 </p>
