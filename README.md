@@ -68,9 +68,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart"></a>
 <a href="#"><img src="https://img.shields.io/badge/YAML-%2300C0B0.svg?style=flat-square&logo=yaml&logoColor=white" alt="YAML"></a>
 <a href="#"><img src="https://img.shields.io/badge/SQL-%234F5B93.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"></a>
-
-<br/><br/>
- 
+<br/>
   <strong>Frameworks and Libraries</strong><br/>
  
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
@@ -107,11 +105,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/JWT/JSON_Web_Token-%232F4F4F.svg?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT/JSON Web Token"></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaFx-%23623E7A.svg?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFx"></a>
-
-<br/><br/>
-  
+<br/>
   <strong>Databases</strong><br/>
-  
+
 <a href="#"><img src="https://img.shields.io/badge/MySQL-%234F5B93.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
 <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%233C4F6C.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></a>
@@ -135,9 +131,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Kali-%23120A8F.svg?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali"></a>
 <a href="#"><img src="https://img.shields.io/badge/Linux_Mint-%2363D18E.svg?style=flat-square&logo=linux-mint&logoColor=white" alt="Linux Mint"></a>
 <a href="#"><img src="https://img.shields.io/badge/Red_Hat-%23DA0000.svg?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat"></a>
-
-<br/><br/>
-
+<br/>
   <strong>Tools & Platforms</strong><br/>
   
 <a href="#"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
@@ -171,9 +165,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Xcode-%23000000.svg?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"></a>
 <a href="#"><img src="https://img.shields.io/badge/Eclipse-%234C2250.svg?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse"></a>
 <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
-
-<br/><br/>
-
+<br/>
   <strong>Game Development</strong><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity"></a>
@@ -185,9 +177,7 @@
 <a href="#"><img src="https://img.shields.io/badge/nVIDIA-%2300A3E0.svg?style=flat-square&logo=nvidia&logoColor=white" alt="nVIDIA"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ubisoft-%23000000.svg?style=flat-square&logo=ubisoft&logoColor=white" alt="Ubisoft"></a>
 <a href="#"><img src="https://img.shields.io/badge/Battle.net-%2366C0F4.svg?style=flat-square&logo=battle-net&logoColor=white" alt="Battle.net"></a>
-
-<br/><br/>
-
+<br/>
   <strong>Other</strong><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Figma-%23324B6F.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"></a>
@@ -218,18 +208,14 @@
 <a href="#"><img src="https://img.shields.io/badge/Vite-%2356B6C8.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite"></a>
 <a href="#"><img src="https://img.shields.io/badge/WordPress-%237D3F5C.svg?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"></a>
 <a href="#"><img src="https://img.shields.io/badge/Yarn-%2300B0FF.svg?style=flat-square&logo=yarn&logoColor=white" alt="Yarn"></a>
-
-<br/><br/>
-
+<br/>
   <strong>Mobile App Development</strong><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Flutter-%232D2D2D.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></a>
 <a href="#"><img src="https://img.shields.io/badge/Android_Studio-%234D2C91.svg?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio"></a>
 <a href="#"><img src="https://img.shields.io/badge/Xcode-%23000000.svg?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"></a>
 <a href="#"><img src="https://img.shields.io/badge/React_Native-%23282C34.svg?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"></a>
-
-<br/><br/>
-
+<br/>
   <strong>Other</strong><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
