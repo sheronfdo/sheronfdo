@@ -35,8 +35,8 @@
   <a href="https://github.com/sheronfdo" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=sheronfdo&theme=radical&show_icons=true&hide_border=true&count_private=true" style="vertical-align: middle; background: transparent;"/>
   </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sheronfdo&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-
 <p align="center">
   <a href="https://github.com/sheronfdo" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheronfdo&theme=radical&show_icons=true&hide_border=true&layout=compact" style="vertical-align: middle; background: transparent;"/>
