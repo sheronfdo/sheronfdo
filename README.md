@@ -168,13 +168,6 @@
 
 <a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity"></a>
 <a href="#"><img src="https://img.shields.io/badge/Unreal_Engine-%234C2C2C.svg?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"></a>
-<a href="#"><img src="https://img.shields.io/badge/Steam-%231F7E6D.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
-<a href="#"><img src="https://img.shields.io/badge/Epic_Games-%233F0D2B.svg?style=flat-square&logo=epic-games&logoColor=white" alt="Epic Games"></a>
-<a href="#"><img src="https://img.shields.io/badge/Battle.net-%2366C0F4.svg?style=flat-square&logo=battle-net&logoColor=white" alt="Battle.net"></a>
-<a href="#"><img src="https://img.shields.io/badge/EA-%23D2AA00.svg?style=flat-square&logo=electronic-arts&logoColor=white" alt="EA"></a>
-<a href="#"><img src="https://img.shields.io/badge/nVIDIA-%2300A3E0.svg?style=flat-square&logo=nvidia&logoColor=white" alt="nVIDIA"></a>
-<a href="#"><img src="https://img.shields.io/badge/Ubisoft-%23000000.svg?style=flat-square&logo=ubisoft&logoColor=white" alt="Ubisoft"></a>
-<a href="#"><img src="https://img.shields.io/badge/Battle.net-%2366C0F4.svg?style=flat-square&logo=battle-net&logoColor=white" alt="Battle.net"></a>
 <br/>
   <strong>Other</strong><br/>
 
