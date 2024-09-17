@@ -53,7 +53,7 @@
 
 <h3 align="center">Skills</h3>
 
-<p align="center">
+<div align="center" style="text-align: center;">
 
   <strong>Programming Languages</strong><br/>
   
@@ -116,9 +116,7 @@
 <a href="#"><img src="https://img.shields.io/badge/MariaDB-%234F5B93.svg?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"></a>
 <a href="#"><img src="https://img.shields.io/badge/Realm-%235D8C7B.svg?style=flat-square&logo=realm&logoColor=white" alt="Realm"></a>
 <a href="#"><img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></a>
-
-<br/><br/>
-  
+<br/>
   <strong>Operating Systems</strong><br/>
   
 <a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"></a>
@@ -225,7 +223,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Xcode-%23000000.svg?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"></a>
 <a href="#"><img src="https://img.shields.io/badge/CodeIgniter-%2371B37C.svg?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter"></a>
 
-</p>
+</div>
 
 
 <h3 align="center" >Contact me</h3>
