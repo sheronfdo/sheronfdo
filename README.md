@@ -16,7 +16,7 @@
 </h3>
 
 <p>
-I'm a Software Engineering undergraduate at Java Institute for Advanced Technology (BSc Hons, 2021–2025) and Birmingham City University (Top-Up, 2024–2025), passionate about building **secure, scalable backend systems** and **full-stack solutions**. With experience at **Epic Lanka Pvt Ltd** and **Sayura Pvt Ltd**, I develop robust applications using **Java, Spring Boot, microservices**, **React**, and **Node.js**, aiming to drive digital transformation and public good.
+I'm a Software Engineering undergraduate at Java Institute for Advanced Technology (BSc Hons, 2021–2025) and Birmingham City University (Top-Up, 2024–2025), passionate about building <b>secure, scalable backend systems</b> and <b>full-stack solutions</b>. With experience at <b>Epic Lanka Pvt Ltd</b> and <b>Sayura Pvt Ltd</b>, I develop robust applications using <b>Java, Spring Boot, microservices</b>, <b>React</b>, and <b>Node.js</b>, aiming to drive digital transformation and public good.
 
 🔹 **What I Do**: Design RESTful APIs, data pipelines, and responsive apps, leveraging **Agile SCRUM**, **Git**, and **Docker**.  
 
@@ -25,7 +25,8 @@ I'm a Software Engineering undergraduate at Java Institute for Advanced Technolo
 🔹 **Fun Fact**: I love optimizing real-world challenges—see my Traffic Management System below!
 </p>
 <p>
- ## 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 - **[Distributed Online Auction Management System](https://github.com/sheronfdo/Auction-Management-System)**  
     A Java EE platform supporting 2000+ concurrent users with <1% error rate. Built with **EJB, JMS, Hibernate, CDI, WebSocket** on **Payara Server 6** and **PostgreSQL**, validated via **JMeter**. Features live bidding and role-based access.
@@ -42,7 +43,8 @@ I'm a Software Engineering undergraduate at Java Institute for Advanced Technolo
     
 </p>
 <P>
- ## 🛠️ Skills
+
+## 🛠️ Skills
 
 - **Languages**: Java, Python, JavaScript, PHP, Dart
 - **Frameworks**: Spring Boot, React, Node.js, Express.js, Laravel, Flask, TensorFlow, Flutter
